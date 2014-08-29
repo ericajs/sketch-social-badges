@@ -13,4 +13,4 @@ The latest Sketch build is required to use this template.
 
 Enjoy!
 
-![Branded Social Badges](sketch-social-badges/sketch-social-badges.png)
+![Branded Social Badges](sketch-social-badges.png)
