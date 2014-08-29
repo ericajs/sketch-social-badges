@@ -1,8 +1,8 @@
 Branded Social Media Badges 
 ====================
-###for Sketch by Bohemian Coding###
+###Sketch template###
 
-*This Sketch template includes popular social media badges*
+*This template includes popular social media badges*
  
 *	The badges are sized according to web default standards
 *	All shape and text layers are editable 
